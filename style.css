@@ -175,3 +175,18 @@ p {
     border: none;
     width: 100px;
 }
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #0B0D17;
+    height: 150px;
+}
+
+.footer h1 {
+    padding-top: 15px;
+    color: #EA5253;
+}
